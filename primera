@@ -1,0 +1,21 @@
+# Mi Proyecto de Notas
+Este es un documento de ejemplo para mostrar las capacidades de **Markdown**.
+
+---
+
+## 1. Objetivos del día
+* Aprender la sintaxis básica de Markdown.
+* Organizar mis ideas de forma visual y rápida.
+* Exportar este archivo a formato PDF o HTML.
+
+## 2. Código de ejemplo
+Si quieres imprimir algo en Python, usas este comando:
+`print("Hola, mundo")`
+
+## 3. Tabla de tareas
+| Tarea | Prioridad | Estado |
+| :--- | :---: | :---: |
+| Redactar informe | Alta | Pendiente |
+| Diseñar logo | Media | En curso |
+
+> "La simplicidad es la sofisticación suprema." – Leonardo da Vinci
